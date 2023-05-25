@@ -1,11 +1,5 @@
 #include "shell.h"
 
-/*
- * File: betty_check
- * Hart ofigwe <ofigwehart@gmail.com>
- * Youssef IMAJAT <Youimajat@gmail.com>
- */
-
 #include <stdio.h>
 #include <unistd.h>
 
